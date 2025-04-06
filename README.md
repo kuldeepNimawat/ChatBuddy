@@ -1,5 +1,5 @@
-#Jetpack Compose Based Chat Module
-We used to create this module using below features
+#ChatBuddy is a Jetpack Compose Based app
+We used below features to build this module
 1. MVVM Architecutre
 2. Kotlin
 3. Jetpack Compose
