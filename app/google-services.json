@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989432429181",
+    "project_id": "chatbuddy-fad1e",
+    "storage_bucket": "chatbuddy-fad1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989432429181:android:77417d6c40eb8b12768f14",
+        "android_client_info": {
+          "package_name": "com.compose.chatbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeT_j_4mgnIMQEOaY1Ep52CkqUdvPVZsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
